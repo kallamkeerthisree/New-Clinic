@@ -41,4 +41,4 @@ It's a Website designed to serve the online medical fecilities to the people who
 
 ##Project Demo link:https://happy-sand-070cc9c00.2.azurestaticapps.net
 
-##GitHub Deployed Link: 
+##GitHub Deployed Link: https://kallamkeerthisree.github.io/New-Clinic/
