@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ##Industry : 
   Health
 
-##Project Title : New Clinic
+##Project Title : HealthCare Connect
 
 ##Problem Statement/Opportunity :
 
